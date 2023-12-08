@@ -39,4 +39,5 @@ cd aries-cloudagent-python-tcc/demo
 
 ### Informações
 O agente Aries do médico é configurado no arquivo **aries-cloudagent-python-tcc/demo/runners/faber.py**
+
 O agente Aries do paciente é configurado no arquivo **aries-cloudagent-python-tcc/demo/runners/alice.py**
